@@ -6,7 +6,7 @@ import {
   warningBoxShadow,
   dangerBoxShadow,
   container
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 
 const snackbarContentStyle = {
   root: {

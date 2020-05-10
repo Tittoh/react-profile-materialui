@@ -3,7 +3,7 @@ import {
   dangerColor,
   successColor,
   defaultFont
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 
 const customInputStyle = {
   disabled: {

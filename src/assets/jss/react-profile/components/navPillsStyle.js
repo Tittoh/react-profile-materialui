@@ -5,7 +5,7 @@ import {
   successColor,
   warningColor,
   dangerColor
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 
 const navPillsStyle = theme => ({
   root: {

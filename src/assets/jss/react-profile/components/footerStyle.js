@@ -1,4 +1,4 @@
-import { container, primaryColor } from "assets/jss/react-profile.js";
+import { container, primaryColor } from "../../react-profile.js";
 
 const footerStyle = {
   block: {

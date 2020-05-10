@@ -10,7 +10,7 @@ import {
   transition,
   boxShadow,
   drawerWidth
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 
 const headerStyle = {
   appBar: {

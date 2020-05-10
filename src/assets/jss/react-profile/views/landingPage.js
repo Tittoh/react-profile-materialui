@@ -1,4 +1,4 @@
-import { container, title } from "assets/jss/react-profile.js";
+import { container, title } from "../../react-profile.js";
 
 const landingPageStyle = {
   container: {

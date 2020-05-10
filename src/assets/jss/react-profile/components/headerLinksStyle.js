@@ -1,6 +1,6 @@
-import { defaultFont } from "assets/jss/react-profile.js";
+import { defaultFont } from "../../react-profile.js";
 
-import tooltip from "assets/jss/react-profile/tooltipsStyle.js";
+import tooltip from "../../react-profile/tooltipsStyle.js";
 
 const headerLinksStyle = theme => ({
   list: {

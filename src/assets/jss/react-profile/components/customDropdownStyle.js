@@ -12,7 +12,7 @@ import {
   dangerBoxShadow,
   roseColor,
   roseBoxShadow
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 
 const customDropdownStyle = theme => ({
   popperClose: {

@@ -3,13 +3,13 @@ import ReactDOM from "react-dom";
 import { createBrowserHistory } from "history";
 import { Router, Route, Switch } from "react-router-dom";
 
-import "assets/scss/react-profile.scss";
+import "./assets/scss/react-profile.scss";
 
 // pages for this product
-import Home from "views/Home/Home.js";
-import Profile from "views/Profile/Profile.js";
-import Fe from "views/Projects/ProjectsFe.js";
-import Be from "views/Projects/ProjectsBe.js";
+import Home from "./views/Home/Home.js";
+import Profile from "./views/Profile/Profile.js";
+import Fe from "./views/Projects/ProjectsFe.js";
+import Be from "./views/Projects/ProjectsBe.js";
 
 var hist = createBrowserHistory();
 

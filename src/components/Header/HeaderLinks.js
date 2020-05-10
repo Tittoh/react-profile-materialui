@@ -15,10 +15,10 @@ import Tooltip from "@material-ui/core/Tooltip";
 import { Apps, Person } from "@material-ui/icons";
 
 // core components
-import CustomDropdown from "components/CustomDropdown/CustomDropdown.js";
-import Button from "components/CustomButtons/Button.js";
+import CustomDropdown from "../../components/CustomDropdown/CustomDropdown.js";
+import Button from "../../components/CustomButtons/Button.js";
 
-import styles from "assets/jss/react-profile/components/headerLinksStyle.js";
+import styles from "../../assets/jss/react-profile/components/headerLinksStyle.js";
 
 const useStyles = makeStyles(styles);
 

@@ -1,4 +1,4 @@
-import { title } from "assets/jss/react-profile.js";
+import { title } from "../../../react-profile.js";
 
 const workStyle = {
   section: {

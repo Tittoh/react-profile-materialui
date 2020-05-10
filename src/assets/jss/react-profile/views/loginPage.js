@@ -1,4 +1,4 @@
-import { container } from "assets/jss/react-profile.js";
+import { container } from "../../react-profile.js";
 
 const signupPageStyle = {
   container: {

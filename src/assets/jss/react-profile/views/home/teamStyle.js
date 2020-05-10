@@ -1,5 +1,5 @@
-import { cardTitle, title } from "assets/jss/react-profile.js";
-import imagesStyle from "assets/jss/react-profile/imagesStyles.js";
+import { cardTitle, title } from "../../../react-profile.js";
+import imagesStyle from "../../imagesStyles.js";
 
 const teamStyle = {
   section: {

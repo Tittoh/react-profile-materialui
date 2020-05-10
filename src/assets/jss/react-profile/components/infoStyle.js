@@ -7,7 +7,7 @@ import {
   roseColor,
   grayColor,
   title
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 
 const infoStyle = {
   infoArea: {

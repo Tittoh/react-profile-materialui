@@ -1,6 +1,6 @@
-import { conatinerFluid } from "assets/jss/react-profile.js";
+import { conatinerFluid } from "../../../react-profile.js";
 
-import imagesStyle from "assets/jss/react-profile/imagesStyles.js";
+import imagesStyle from "../../imagesStyles.js";
 
 const exampleStyle = {
   section: {

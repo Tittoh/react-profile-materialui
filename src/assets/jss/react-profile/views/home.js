@@ -1,6 +1,6 @@
-import { container } from "assets/jss/react-profile.js";
+import { container } from "../../react-profile.js";
 
-import imagesStyles from "assets/jss/react-profile/imagesStyles.js";
+import imagesStyles from "../imagesStyles.js";
 
 const componentsStyle = {
   container,

@@ -4,7 +4,7 @@ import {
   dangerCardHeader,
   infoCardHeader,
   primaryCardHeader
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 const cardHeaderStyle = {
   cardHeader: {
     borderRadius: "3px",

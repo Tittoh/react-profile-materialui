@@ -6,7 +6,7 @@ import {
   infoColor,
   roseColor,
   grayColor
-} from "assets/jss/react-profile.js";
+} from "../../react-profile.js";
 
 const customLinearProgressStyle = {
   root: {
