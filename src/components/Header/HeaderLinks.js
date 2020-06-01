@@ -36,10 +36,10 @@ export default function HeaderLinks(props) {
           }}
           buttonIcon={Apps}
           dropdownList={[
-            <Link to="/fe" className={classes.dropdownLink}>
+            <Link to="https://tittoh.github.io/react-profile-materialui/fe" className={classes.dropdownLink}>
               Frontend
             </Link>,
-            <Link to="/be" className={classes.dropdownLink}>
+            <Link to="https://tittoh.github.io/react-profile-materialui/be" className={classes.dropdownLink}>
               Backend
             </Link>,
             <Link to="#!" inactive className={classes.dropdownLink}>
@@ -50,7 +50,7 @@ export default function HeaderLinks(props) {
       </ListItem>
       <ListItem className={classes.listItem}>
         <Button
-          href="/profile"
+          href="https://tittoh.github.io/react-profile-materialui/profile"
           color="transparent"
           className={classes.navLink}
         >
