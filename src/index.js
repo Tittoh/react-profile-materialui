@@ -16,9 +16,9 @@ let hist = createBrowserHistory();
 ReactDOM.render(
   <Router history={hist}>
     <Switch>
-      <Route path="https://tittoh.github.io/react-profile-materialui/profile" component={Profile} />
-      <Route path="https://tittoh.github.io/react-profile-materialui/fe" component={Fe} />
-      <Route path="https://tittoh.github.io/react-profile-materialui/be" component={Be} />
+      <Route path="/profile" component={Profile} />
+      <Route path="/fe" component={Fe} />
+      <Route path="/be" component={Be} />
       <Route path="/" component={Home} />
     </Switch>
   </Router>,
