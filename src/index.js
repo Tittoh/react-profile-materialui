@@ -11,14 +11,14 @@ import Profile from "./views/Profile/Profile.js";
 import Fe from "./views/Projects/ProjectsFe.js";
 import Be from "./views/Projects/ProjectsBe.js";
 
-var hist = createBrowserHistory();
+let hist = createBrowserHistory();
 
 ReactDOM.render(
   <Router history={hist}>
     <Switch>
-      <Route path="/profile" component={Profile} />
-      <Route path="/fe" component={Fe} />
-      <Route path="/be" component={Be} />
+      <Route path="https://tittoh.github.io/react-profile-materialui/profile" component={Profile} />
+      <Route path="https://tittoh.github.io/react-profile-materialui/fe" component={Fe} />
+      <Route path="https://tittoh.github.io/react-profile-materialui/be" component={Be} />
       <Route path="/" component={Home} />
     </Switch>
   </Router>,
