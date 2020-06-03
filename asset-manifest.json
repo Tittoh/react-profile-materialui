@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-profile-materialui/static/css/main.26d8a8ff.chunk.css",
-    "main.js": "/react-profile-materialui/static/js/main.48a64b45.chunk.js",
-    "main.js.map": "/react-profile-materialui/static/js/main.48a64b45.chunk.js.map",
+    "main.js": "/react-profile-materialui/static/js/main.bc9cdf98.chunk.js",
+    "main.js.map": "/react-profile-materialui/static/js/main.bc9cdf98.chunk.js.map",
     "runtime-main.js": "/react-profile-materialui/static/js/runtime-main.f6f9c9e7.js",
     "runtime-main.js.map": "/react-profile-materialui/static/js/runtime-main.f6f9c9e7.js.map",
-    "static/js/2.b1c5315f.chunk.js": "/react-profile-materialui/static/js/2.b1c5315f.chunk.js",
-    "static/js/2.b1c5315f.chunk.js.map": "/react-profile-materialui/static/js/2.b1c5315f.chunk.js.map",
+    "static/js/2.a2905864.chunk.js": "/react-profile-materialui/static/js/2.a2905864.chunk.js",
+    "static/js/2.a2905864.chunk.js.map": "/react-profile-materialui/static/js/2.a2905864.chunk.js.map",
     "index.html": "/react-profile-materialui/index.html",
-    "precache-manifest.663565730cbee3df670deef8f57c9d53.js": "/react-profile-materialui/precache-manifest.663565730cbee3df670deef8f57c9d53.js",
+    "precache-manifest.abd8329e2fb516281fe32c5b2858abc1.js": "/react-profile-materialui/precache-manifest.abd8329e2fb516281fe32c5b2858abc1.js",
     "service-worker.js": "/react-profile-materialui/service-worker.js",
     "static/css/main.26d8a8ff.chunk.css.map": "/react-profile-materialui/static/css/main.26d8a8ff.chunk.css.map",
-    "static/js/2.b1c5315f.chunk.js.LICENSE.txt": "/react-profile-materialui/static/js/2.b1c5315f.chunk.js.LICENSE.txt",
+    "static/js/2.a2905864.chunk.js.LICENSE.txt": "/react-profile-materialui/static/js/2.a2905864.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/react-profile-materialui/static/media/avatar.f76afc91.jpg",
     "static/media/background.jpg": "/react-profile-materialui/static/media/background.e81e2ae8.jpg",
     "static/media/christian.jpg": "/react-profile-materialui/static/media/christian.56633ed3.jpg",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f6f9c9e7.js",
-    "static/js/2.b1c5315f.chunk.js",
+    "static/js/2.a2905864.chunk.js",
     "static/css/main.26d8a8ff.chunk.css",
-    "static/js/main.48a64b45.chunk.js"
+    "static/js/main.bc9cdf98.chunk.js"
   ]
 }
